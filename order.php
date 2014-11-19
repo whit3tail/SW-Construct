@@ -52,7 +52,7 @@ echo "
 
 		</span> 
 		</li>		<li id=\"li_6\" >
-		<label class=\"description\" for=\"element_6\">ก็วยเตี๋ยว </label>
+		<label class=\"description\" for=\"element_6\">ก๋วยเตี๋ยว </label>
 		<span>
 			<input id=\"element_6_1\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"35\" checked=\"checked\"/>
 <label class=\"choice\" for=\"element_6_1\">ธรรมดา (35 บาท )</label>
