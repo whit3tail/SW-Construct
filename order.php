@@ -55,18 +55,18 @@ echo "
 		<label class=\"description\" for=\"element_6\">ก๋วยเตี๋ยว </label>
 		<span>
 			<input id=\"element_6_1\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"35\" checked=\"checked\"/>
-<label class=\"choice\" for=\"element_6_1\">ธรรมดา (35 บาท )</label>
+<label class=\"choice\" for=\"element_6_1\">ธรรมดา (30 บาท )</label>
 
 <input id=\"element_6_1\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"35\" checked=\"checked\"/>
-<label class=\"choice\" for=\"element_6_1\">เกาเหลา (35 บาท )</label>
+<label class=\"choice\" for=\"element_6_1\">เกาเหลา(40 บาท )</label>
 
-<input id=\"element_6_2\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"50\" />
+<input id=\"element_6_2\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"45\" />
 <label class=\"choice\" for=\"element_6_2\">พิเศษ ไข่มะตูม (+15 บาท)</label>
-<input id=\"element_6_3\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"60\" />
+<input id=\"element_6_3\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"55\" />
 <label class=\"choice\" for=\"element_6_2\">พิเศษ ไข่มะตูม 2 ฟอง (+25 บาท)</label>
-<input id=\"element_6_3\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"50\" />
+<input id=\"element_6_3\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"45\" />
 <label class=\"choice\" for=\"element_6_3\">พิเศษ เพิ่มกุ้ง (+15 บาท)</label>
-<input id=\"element_6_4\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"50\" />
+<input id=\"element_6_4\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"45\" />
 <label class=\"choice\" for=\"element_6_4\">พิเศษ เพิ่มปลาหมึก (+15 บาท)</label>
 
 		</span> 
