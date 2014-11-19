@@ -52,14 +52,10 @@ echo "
 
 		</span> 
 		</li>		<li id=\"li_6\" >
-		<label class=\"description\" for=\"element_6\">ก๋วยเตี๋ยว </label>
+		<label class=\"description\" for=\"element_6\">พิเศษ </label>
 		<span>
 			<input id=\"element_6_1\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"35\" checked=\"checked\"/>
 <label class=\"choice\" for=\"element_6_1\">ธรรมดา (35 บาท )</label>
-
-<input id=\"element_6_1\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"35\" checked=\"checked\"/>
-<label class=\"choice\" for=\"element_6_1\">เกาเหลา (35 บาท )</label>
-
 <input id=\"element_6_2\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"50\" />
 <label class=\"choice\" for=\"element_6_2\">พิเศษ ไข่มะตูม (+15 บาท)</label>
 <input id=\"element_6_3\" name=\"plus$a\" class=\"element checkbox\" type=\"checkbox\" value=\"60\" />
@@ -91,21 +87,21 @@ echo "
 <h3>---------------------------------------ทอปปิ้ง ---------------------------------------</h3>
 
 		<li id="li_3" >
-		<label class="description" for="element_3">กุ้ง (ตัวละ 15 บาท) </label>
+		<label class="description" for="element_3">กุ้ง (ตัวละ 55 บาท) </label>
 		<div>
 			<input id="element_3" name="kung" class="element text medium" type="text" maxlength="255" value=""/> 
 
 		</div> 
 		</li>		
         <li id="li_3" >
-		<label class="description" for="element_2">ไข่ยางมะตูม(ฟองละ 15 บาท) </label>
+		<label class="description" for="element_2">ไข่ยางมะตูม(ฟองละ 55 บาท) </label>
 		<div>
 			<input id="element_3" name="kung" class="element text medium" type="text" maxlength="255" value=""/> 
 
 		</div> 
 		</li>
         <li id="li_4" >
-		<label class="description" for="element_4">หมึก (ตัวละ 15 บาท) </label>
+		<label class="description" for="element_4">หมึก (ตัวละ 55 บาท) </label>
 		<div>
 			<input id="element_4" name="mux" class="element text medium" type="text" maxlength="255" value=""/> 
 
